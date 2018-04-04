@@ -20,7 +20,7 @@
   </properties>
   <name>XFramium Builder</name>
   <description>Execution of xFramium test scripts</description>
-  <url>https://wiki.jenkins-ci.org/display/JENKINS/xFramium</url>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/xFramium+Plugin</url>
   <!-- The default licence for Jenkins OSS Plugins is MIT. Substitute for the applicable one if needed. -->
   <licenses>
     <license>
