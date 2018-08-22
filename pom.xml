@@ -41,7 +41,7 @@
     <connection>scm:git:https://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:https://github.com/jenkinsci/${project.artifactId}-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
-    <tag>xframium-1.0.17</tag>
+    <tag>xframium-1.0.20</tag>
   </scm>
   <repositories>
     <repository>
@@ -73,7 +73,7 @@
     <dependency>
       <groupId>org.xframium</groupId>
       <artifactId>xframium-driver</artifactId>
-      <version>1.0.17</version>
+      <version>1.0.18</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>org.ow2.asm</groupId>
@@ -84,7 +84,7 @@
     <dependency>
       <groupId>org.xframium</groupId>
       <artifactId>xframium-java</artifactId>
-      <version>1.0.17</version>
+      <version>1.0.18</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>org.ow2.asm</groupId>
