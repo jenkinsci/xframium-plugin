@@ -84,7 +84,7 @@
     <dependency>
       <groupId>org.xframium</groupId>
       <artifactId>xframium-java</artifactId>
-      <version>1.0.18</version>
+      <version>1.0.19</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>org.ow2.asm</groupId>
