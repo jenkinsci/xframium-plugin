@@ -32,7 +32,7 @@
     <developer>
       <id>allengeary</id>
       <name>Allen Geary</name>
-      <email>ageary@morelandlabs.com</email>
+      <email>ageary@minnimsoft.com</email>
     </developer>
   </developers>
   <!-- If you want this to appear on the wiki page: <developers> <developer> <id>bhacker</id> <name>Bob Q. Hacker</name> <email>bhacker@nowhere.net</email> </developer> </developers> -->
@@ -73,24 +73,24 @@
     <dependency>
       <groupId>org.xframium</groupId>
       <artifactId>xframium-driver</artifactId>
-      <version>1.0.18</version>
+      <version>1.0.21</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>org.ow2.asm</groupId>
-         <artifactId>asm</artifactId>
+          <artifactId>asm</artifactId>
         </exclusion>
-      </exclusions> 
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>org.xframium</groupId>
       <artifactId>xframium-java</artifactId>
-      <version>1.0.19</version>
+      <version>1.0.21</version>
       <exclusions>
         <exclusion>  <!-- declare the exclusion here -->
           <groupId>org.ow2.asm</groupId>
-         <artifactId>asm</artifactId>
+          <artifactId>asm</artifactId>
         </exclusion>
-      </exclusions> 
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
